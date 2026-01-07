@@ -1,5 +1,5 @@
 <h2 align="center">Hi 👋, I'm Yaokang Wu</h2>
-<h3 align="center">Software Engineer ｜ CMU Alumni</h3>
+<h3 align="center">Software Engineer</h3>
 
 💻 Focusing on Mobile Development recently
 
