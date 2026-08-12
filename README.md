@@ -1,15 +1,18 @@
-<h2 align="center">Hi 👋, I'm Yaokang Wu</h2>
-<h3 align="center">Software Engineer</h3>
+<div align="center">
 
-💻 Focusing on Mobile Development recently
+<h2>Yaokang Wu</h2>
 
-💡 Interested in different domains of software development
-
-📫 Reach out to me at **vincewu9@gmail.com**
-
-<h3 align="left">Networking</h3>
-<p align="left">
-<a href="https://linkedin.com/in/yaokangwu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yaokangwu" height="30" width="40" /></a>
-<a href="https://instagram.com/yaokangwu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yaokangwu" height="30" width="40" /></a>
+<p>
+Full Stack Software Engineer<br>
+<a href="mailto:yaokwu@gmail.com">Email</a>&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="https://linkedin.com/in/yaokangwu">LinkedIn</a>&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="https://instagram.com/yaokangwu">Instagram</a>
 </p>
 
+</div>
+
+
+
+- 💻 Full Stack Software Engineer
+- 🎓 Graduated from Carnegie Mellon University
+- 📫 Reach me at [yaokwu@gmail.com](mailto:yaokwu@gmail.com)
